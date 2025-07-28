@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:speech_to_text/speech_to_text.dart' as stt;
+// import 'package:speech_to_text/speech_to_text.dart' as stt;
 import '../services/lesson_note_service.dart';
 import '../models/lesson_note_data.dart';
 import 'lesson_note_preview_screen.dart';

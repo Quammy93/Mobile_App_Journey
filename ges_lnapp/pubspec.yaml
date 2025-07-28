@@ -1,4 +1,4 @@
-name: ges_lesson_note_generator
+name: ges_lnapp
 description: A Flutter app for generating GES curriculum-based lesson notes
 
 publish_to: 'none'
